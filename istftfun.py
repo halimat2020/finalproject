@@ -8,7 +8,7 @@ def stftfun(x,R,Nfft):
 	y=y[1:R,:]
 	why= np.zeros(1,R/2*(Nc+1))
 	end=len(why)
-	
+
 	j=0
 	for i in range(1,Nc):
 		for i in range(1,i2):
