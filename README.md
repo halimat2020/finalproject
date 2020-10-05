@@ -1,1 +1,2 @@
 # finalproject
+During my last year of college, I designed audio filters on python and created a program that allows users to select the filters from a GUI (using the TKinter library) and processes their audio input in real time (using PyAudio library). I used embedded system principles to run the program on a raspberry pi microcomputer, display the GUI on an LCD touchscreen with SPI communication, take audio input on microphones and play filtered output on a speaker. 
